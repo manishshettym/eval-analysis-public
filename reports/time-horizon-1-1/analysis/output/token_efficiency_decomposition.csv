@@ -1,0 +1,18 @@
+agent,lineage,lineage_label,horizon_50,median_tokens,bucket_median_tokens,bucket_n_runs,release_date
+Claude 3 Opus (Inspect),anthropic_react,Anthropic / react,3.9522619883717782,10008.0,39465.0,143,2024-03-04
+Claude 3.5 Sonnet (Old) (Inspect),anthropic_react,Anthropic / react,11.395376604861136,8489.0,29136.0,141,2024-06-20
+Claude 3.5 Sonnet (New) (Inspect),anthropic_react,Anthropic / react,20.52287176519794,7544.0,25198.0,135,2024-10-22
+Claude 3.7 Sonnet (Inspect),anthropic_react,Anthropic / react,60.388936451067146,23402.0,50164.0,143,2025-02-24
+Claude 4 Opus (Inspect),anthropic_react,Anthropic / react,100.36612316105756,27271.5,44641.0,236,2025-05-22
+Claude 4.1 Opus (Inspect),anthropic_react,Anthropic / react,100.47200385082274,19244.0,48593.0,144,2025-08-05
+Claude Opus 4.5 (Inspect),anthropic_react,Anthropic / react,292.9945929060779,13310.0,29676.5,144,2025-11-24
+Claude Opus 4.6 (Inspect),anthropic_react,Anthropic / react,718.8068108748706,19975.0,24864.0,216,2026-02-05
+Gemini 3 Pro,google,Gemini 3 Pro,224.32588297718405,17671.5,44421.5,144,2025-11-18
+GPT-4 1106 (Inspect),openai_nonreasoning_react,OpenAI non-reasoning / react,4.044958959903116,4639.0,40387.0,143,2023-11-06
+GPT-4 Turbo (Inspect),openai_nonreasoning_react,OpenAI non-reasoning / react,3.7327869534415643,5609.5,26249.0,143,2024-04-09
+GPT-4o (Inspect),openai_nonreasoning_react,OpenAI non-reasoning / react,6.991195344842732,6018.0,26706.5,144,2024-05-13
+o1 (Inspect),openai_reasoning_triframe,OpenAI reasoning / triframe,38.83158813634082,93374.0,212797.0,144,2024-12-05
+o3 (Inspect),openai_reasoning_triframe,OpenAI reasoning / triframe,119.73263347570581,150184.5,357804.0,144,2025-04-16
+GPT-5 (Inspect),openai_reasoning_triframe,OpenAI reasoning / triframe,203.01257671665195,63130.5,121599.0,144,2025-08-07
+GPT-5.1-Codex-Max (Inspect),openai_reasoning_triframe,OpenAI reasoning / triframe,223.714690388267,181916.0,249500.0,216,2025-11-19
+GPT-5.2,openai_reasoning_triframe,OpenAI reasoning / triframe,352.24930064806625,206340.0,274874.0,164,2025-12-11
