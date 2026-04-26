@@ -1,0 +1,29 @@
+kind,bucket,lineage,n_agents,yearly_token_factor,first_agent,last_agent,first_tokens,last_tokens
+all,1-4 min,Anthropic / react,8,1.261,Claude 3 Opus (Inspect),Claude Opus 4.6 (Inspect),3826,6585
+all,1-4 min,OpenAI reasoning / triframe,5,1.317,o1 (Inspect),GPT-5.2,52159,82832
+all,1-4 min,OpenAI non-reasoning / react,3,2.047,GPT-4 1106 (Inspect),GPT-4o (Inspect),2572,4175
+all,4-15 min,Anthropic / react,8,1.27,Claude 3 Opus (Inspect),Claude Opus 4.6 (Inspect),15119,16445
+all,4-15 min,OpenAI reasoning / triframe,5,0.858,o1 (Inspect),GPT-5.2,164265,172483
+all,4-15 min,OpenAI non-reasoning / react,3,0.822,GPT-4 1106 (Inspect),GPT-4o (Inspect),9946,8611
+all,15-60 min,Anthropic / react,8,0.962,Claude 3 Opus (Inspect),Claude Opus 4.6 (Inspect),39465,24864
+all,15-60 min,OpenAI reasoning / triframe,5,0.999,o1 (Inspect),GPT-5.2,212797,274874
+all,15-60 min,OpenAI non-reasoning / react,3,0.421,GPT-4 1106 (Inspect),GPT-4o (Inspect),40387,26706
+all,1-4 hr,Anthropic / react,8,1.25,Claude 3 Opus (Inspect),Claude Opus 4.6 (Inspect),123584,236848
+all,1-4 hr,OpenAI reasoning / triframe,5,0.954,o1 (Inspect),GPT-5.2,553166,804028
+all,1-4 hr,OpenAI non-reasoning / react,3,1.344,GPT-4 1106 (Inspect),GPT-4o (Inspect),75803,108277
+all,4 hr+,Anthropic / react,8,3.727,Claude 3 Opus (Inspect),Claude Opus 4.6 (Inspect),238298,1593546
+all,4 hr+,OpenAI reasoning / triframe,5,2.502,o1 (Inspect),GPT-5.2,1514612,6166800
+all,4 hr+,OpenAI non-reasoning / react,3,3.293,GPT-4 1106 (Inspect),GPT-4o (Inspect),74284,177821
+success_only,1-4 min,Anthropic / react,8,1.457,Claude 3 Opus (Inspect),Claude Opus 4.6 (Inspect),3358,6606
+success_only,1-4 min,OpenAI reasoning / triframe,5,1.331,o1 (Inspect),GPT-5.2,51961,81339
+success_only,1-4 min,OpenAI non-reasoning / react,3,0.668,GPT-4 1106 (Inspect),GPT-4o (Inspect),2572,2365
+success_only,4-15 min,Anthropic / react,8,1.244,Claude 3 Opus (Inspect),Claude Opus 4.6 (Inspect),15153,14903
+success_only,4-15 min,OpenAI reasoning / triframe,5,0.932,o1 (Inspect),GPT-5.2,138594,165800
+success_only,4-15 min,OpenAI non-reasoning / react,3,0.316,GPT-4 1106 (Inspect),GPT-4o (Inspect),8833,5055
+success_only,15-60 min,Anthropic / react,8,1.163,Claude 3 Opus (Inspect),Claude Opus 4.6 (Inspect),27592,24414
+success_only,15-60 min,OpenAI reasoning / triframe,5,1.086,o1 (Inspect),GPT-5.2,190183,264863
+success_only,15-60 min,OpenAI non-reasoning / react,3,0.115,GPT-4 1106 (Inspect),GPT-4o (Inspect),36820,12823
+success_only,1-4 hr,Anthropic / react,7,1.247,Claude 3.5 Sonnet (Old) (Inspect),Claude Opus 4.6 (Inspect),54281,121210
+success_only,1-4 hr,OpenAI reasoning / triframe,5,1.023,o1 (Inspect),GPT-5.2,334608,403232
+success_only,4 hr+,Anthropic / react,7,1.975,Claude 3.5 Sonnet (Old) (Inspect),Claude Opus 4.6 (Inspect),438750,863344
+success_only,4 hr+,OpenAI reasoning / triframe,5,1.505,o1 (Inspect),GPT-5.2,1690910,3074153
