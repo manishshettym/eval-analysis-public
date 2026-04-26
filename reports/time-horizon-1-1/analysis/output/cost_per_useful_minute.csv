@@ -1,0 +1,18 @@
+agent,lineage,lineage_label,tokens_per_successful_minute,weighted_tokens,weighted_successful_minutes,n_runs,release_date
+Claude 3 Opus (Inspect),anthropic_react,Anthropic / react,141557.1544661017,569229.555818667,4.021199479217978,1038,2024-03-04
+Claude 3.5 Sonnet (Old) (Inspect),anthropic_react,Anthropic / react,40806.07077993394,557169.823834624,13.65409149142112,1005,2024-06-20
+Claude 3.5 Sonnet (New) (Inspect),anthropic_react,Anthropic / react,43034.66487054409,876114.9852221913,20.358355011191577,1016,2024-10-22
+Claude 3.7 Sonnet (Inspect),anthropic_react,Anthropic / react,20978.819821998062,532101.0246140449,25.363725372963646,1043,2025-02-24
+Claude 4 Opus (Inspect),anthropic_react,Anthropic / react,16685.125325670455,685944.7388375264,41.1111529250658,1368,2025-05-22
+Claude 4.1 Opus (Inspect),anthropic_react,Anthropic / react,18985.907670640358,680103.0920270999,35.82146841885287,1043,2025-08-05
+Claude Opus 4.5 (Inspect),anthropic_react,Anthropic / react,14350.814311000137,1190770.3281018191,82.97580209013464,1044,2025-11-24
+Claude Opus 4.6 (Inspect),anthropic_react,Anthropic / react,16262.758069341837,1766355.0721347318,108.61349991208577,1391,2026-02-05
+Gemini 3 Pro,google,Gemini 3 Pro,10287.419622141406,731897.6248360376,71.14491794043174,1044,2025-11-18
+GPT-4 1106 (Inspect),openai_nonreasoning_react,OpenAI non-reasoning / react,218823.71482389804,465957.4530785632,2.12937365337002,1029,2023-11-06
+GPT-4 Turbo (Inspect),openai_nonreasoning_react,OpenAI non-reasoning / react,160112.52190220795,268046.8120099695,1.6741152336210445,1032,2024-04-09
+GPT-4o (Inspect),openai_nonreasoning_react,OpenAI non-reasoning / react,32670.016247678617,330185.8017461243,10.106692302902843,1044,2024-05-13
+o1 (Inspect),openai_reasoning_triframe,OpenAI reasoning / triframe,77111.820555923,1556321.510275478,20.182658106830758,1044,2024-12-05
+o3 (Inspect),openai_reasoning_triframe,OpenAI reasoning / triframe,106692.22887200196,4531196.750972692,42.469791838435974,1044,2025-04-16
+GPT-5 (Inspect),openai_reasoning_triframe,OpenAI reasoning / triframe,32980.15258816438,2285968.8856173935,69.31347208010679,1056,2025-08-07
+GPT-5.1-Codex-Max (Inspect),openai_reasoning_triframe,OpenAI reasoning / triframe,53573.64837338106,3609208.1877625333,67.36909464534111,1369,2025-11-19
+GPT-5.2,openai_reasoning_triframe,OpenAI reasoning / triframe,42042.628120401496,3713810.9742585244,88.33441533728407,961,2025-12-11
