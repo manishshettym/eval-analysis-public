@@ -1,0 +1,18 @@
+agent,lineage,lineage_label,horizon_50,tokens_at_fixed_difficulty,release_date
+Claude 3 Opus (Inspect),anthropic_react,Anthropic / react,3.9522619883717782,39465.0,2024-03-04
+Claude 3.5 Sonnet (Old) (Inspect),anthropic_react,Anthropic / react,11.395376604861136,29136.0,2024-06-20
+Claude 3.5 Sonnet (New) (Inspect),anthropic_react,Anthropic / react,20.52287176519794,25198.0,2024-10-22
+Claude 3.7 Sonnet (Inspect),anthropic_react,Anthropic / react,60.388936451067146,50164.0,2025-02-24
+Claude 4 Opus (Inspect),anthropic_react,Anthropic / react,100.36612316105756,44641.0,2025-05-22
+Claude 4.1 Opus (Inspect),anthropic_react,Anthropic / react,100.47200385082274,48593.0,2025-08-05
+Claude Opus 4.5 (Inspect),anthropic_react,Anthropic / react,292.9945929060779,29676.5,2025-11-24
+Claude Opus 4.6 (Inspect),anthropic_react,Anthropic / react,718.8068108748706,24864.0,2026-02-05
+Gemini 3 Pro,google,Gemini 3 Pro,224.32588297718405,44421.5,2025-11-18
+GPT-4 1106 (Inspect),openai_nonreasoning_react,OpenAI non-reasoning / react,4.044958959903116,40387.0,2023-11-06
+GPT-4 Turbo (Inspect),openai_nonreasoning_react,OpenAI non-reasoning / react,3.7327869534415643,26249.0,2024-04-09
+GPT-4o (Inspect),openai_nonreasoning_react,OpenAI non-reasoning / react,6.991195344842732,26706.5,2024-05-13
+o1 (Inspect),openai_reasoning_triframe,OpenAI reasoning / triframe,38.83158813634082,212797.0,2024-12-05
+o3 (Inspect),openai_reasoning_triframe,OpenAI reasoning / triframe,119.73263347570581,357804.0,2025-04-16
+GPT-5 (Inspect),openai_reasoning_triframe,OpenAI reasoning / triframe,203.01257671665195,121599.0,2025-08-07
+GPT-5.1-Codex-Max (Inspect),openai_reasoning_triframe,OpenAI reasoning / triframe,223.714690388267,249500.0,2025-11-19
+GPT-5.2,openai_reasoning_triframe,OpenAI reasoning / triframe,352.24930064806625,274874.0,2025-12-11
